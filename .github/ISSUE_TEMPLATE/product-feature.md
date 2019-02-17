@@ -1,7 +1,7 @@
 ---
 name: Product Feature
 about: Approved feature to be built
-title: New Feature [FEATURE]
+title: "New Feature [FEATURE \U0001F680]"
 labels: Feature
 assignees: ah100101
 
