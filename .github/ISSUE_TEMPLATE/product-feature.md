@@ -13,7 +13,10 @@ assignees: ah100101
 ## Related Features
 [Specify any related features and how they are impacted
 
+## Requirements
+- [ ] unauthenticated users should be directed to ...
+
 ## Related issues
-[Provide links to any related issues or functionality
+[Provide links to any related issues or functionality]
 
 ### Estimate: [x] hours
