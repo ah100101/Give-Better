@@ -3,11 +3,6 @@ export default {
   mounted: function () {
     this.setNavigation()
   },
-  data () {
-    return {
-
-    }
-  },
   computed: {
     user: function () {
       return this.$store.getters['user/user']
